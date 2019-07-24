@@ -1,0 +1,38 @@
+div.col-lg-3{
+    background: linear-gradient(#A7FFEB,#CCFF90);
+ }
+ div.col-lg-9.row{
+     max-width: 100%;
+ }
+img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+section{
+    background-color:#616161;
+    color: #A7FFEB;
+    max-width: 100%;
+    text-align: center;
+}
+h1{
+    color: #A7FFEB;
+}
+h1 span{
+    color:#212121;
+}
+h3{
+    color:#616161;
+}
+
+h2{
+     color:#212121; 
+}
+h2 i{
+     color: #A7FFEB;
+ }
+ div.col-hr{
+     color:#A7FFEB;
+ }

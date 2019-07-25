@@ -16,18 +16,17 @@ img{
     color: #A7FFEB;
     max-width: 100%;
     text-align: center;
-      
 }
 h1{
     color: #A7FFEB;
-    padding-left: 10%;
+    margin-left: 10%;
 }
 h1 span{
     color:#212121;
 }
 h3{
     color:#616161;
-    padding-left: 10%;
+    margin-left: 10%;
 }
 
 h2{
